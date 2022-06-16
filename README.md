@@ -1,2 +1,0 @@
-# WPA
-WorkPrep assignment 
